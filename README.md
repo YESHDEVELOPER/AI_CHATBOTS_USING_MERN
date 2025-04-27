@@ -204,13 +204,14 @@ const chatSchema = new mongoose.Schema({
 #### **Step 4: User Logout 🚪**
 
 1. The user clicks the **Logout** button, which sends a **GET request** to revoke the session.
-2. The frontend clears the token from **localSto![Screenshot 2025-04-27 151515](https://github.com/user-attachments/assets/ae8ba3e5-3dcd-4bc8-9387-eca07a207d83)
+2. The frontend clears the token from rage** and redirects the user to the **Home Page**.
+3. 🏠**localSto![Screenshot 2025-04-27 151515](https://github.com/user-attachments/assets/ae8ba3e5-3dcd-4bc8-9387-eca07a207d83)
 ![Screenshot 2025-04-27 151305](https://github.com/user-attachments/assets/e4cfee8e-aa01-49fe-b550-4d5c1a9dcd08)
 ![Screenshot 2025-04-27 151205](https://github.com/user-attachments/assets/85f8dfec-eb2f-497f-8f02-880501753281)
 ![Screenshot 2025-04-27 112644](https://github.com/user-attachments/assets/b1d1ba56-cb3d-48ef-9d9e-3c870801e869)
 ![Screenshot 2025-04-25 145818](https://github.com/user-attachments/assets/c919bf8b-7013-4ded-9916-e5159f11dc33)
 ![Screenshot 2025-04-19 131141](https://github.com/user-attachments/assets/2b9ea1e8-2850-4256-b5b8-76dc09cb5f7d)
 ![Screenshot 2025-04-25 145818](https://github.com/user-attachments/assets/6bca59c4-bedf-4080-a615-0768a952e7cd)
-rage** and redirects the user to the **Home Page**. 🏠
+
 
 ---
