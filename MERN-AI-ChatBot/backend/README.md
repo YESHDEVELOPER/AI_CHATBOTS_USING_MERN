@@ -7,8 +7,7 @@ It's a customized chatbot where each message of the user is stored in DB and can
 
 It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
 
-Of course! Here's your content made more **professional**, **organized**, and **attractive** — with **emojis**, **logos**, and some **formatting improvements**.  
-(For logos, since you can't directly render images in markdown without hosting, I added beautiful Unicode and emoji icons.)
+
 
 ---
 
